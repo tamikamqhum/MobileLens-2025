@@ -1,6 +1,7 @@
 # MobileLens-2025: Smartphone Pricing & Specification Insight
 
-[Mobile Phone Image]()
+![Phone Image](inputs/phone_image.png)
+
 ## Overview
 MobileLens 2025 is a data-driven exploration of smartphone pricing and hardware specifications for devices released in 2025. This project analyses trends across major brands, compare specifications such as RAM, storage, battery, camera quality and evaluates how these variables influence smartphone prices. 
 The final deliverable include exploratory data analysis (EDA), price-prediction in sights and an interactive Streamlit dashboard. 
