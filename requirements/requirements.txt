@@ -1,0 +1,20 @@
+# Data manipulation
+numpy
+pandas
+
+# Plotting
+matplotlib
+seaborn
+plotly
+
+# Scientific computing
+scipy
+scikit-learn
+
+# Jupyter
+jupyter
+ipykernel
+
+# Optional utilities
+requests
+tqdm
